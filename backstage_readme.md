@@ -6,4 +6,4 @@ Les fonctionnalités principales de Backstage sont :
 	• Recherche : unique point de recherche sur les services et ressources associées
 	• Extension via plugins : 
 		○ K8S : visibilité sur tous les nœuds sous-jacent à un service
-    ○ Autres plugins![Uploading image.png…]()
+    		○ Autres plugins
